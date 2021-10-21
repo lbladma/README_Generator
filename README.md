@@ -26,14 +26,14 @@ This app allows the user to add or take notes. and return to them later. notes c
 
 ## Screenshots
 
-<img width="600" height="400" alt="" src="public\assets\images\test.png">
+<img width="600" height="400" alt="" src="public\assets\images\CSS.png">
 
 
 
-<img width="600" height="400" alt="" src="public\assets\images\test.png">
+<img width="600" height="400" alt="" src="public\assets\images\CSS.png">
 
 
-<img width="600" height="400" alt="" src="public\assets\images\test.png">
+<img width="600" height="400" alt="" src="public\assets\images\CSS.png">
 
 <br>
 
