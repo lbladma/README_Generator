@@ -26,7 +26,7 @@
   ## Contributors
   -- Were there any contributors to the application/project --
 
-  Contributors: Taoufik Ammi
+  Contributors: Taoufik A.
 
   ## License
   -- Are there any license the application has? --
