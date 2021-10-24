@@ -55,14 +55,21 @@
 
 
 
-  ## Live Demo
+  ## Live Demo & Snapshot: 
   -- This is the Live Demo for the README Project --
-  ![Demonstration](ReadmeGenerator-DEMO.gif)
+    <br>
+  [LIVE URL](https://www.awesomescreenshot.com/video/5747294?key=c3ffe7766c2fd109e01da2ccca5382ee)
+  #
+  -- This is a snapshot of the Project
+  ![GIF](ReadmeGenerator-DEMO.gif)
+
+
+
 
 
   ## Screenshot of the README File
   -- This is the Screenshot of  the README Project --
-  ![Demonstration](ReadmeGenerator-DEMO.png)
+  ![Screenshot](ReadmeGenerator-DEMO.png)
 
 
 
@@ -71,8 +78,8 @@
 
   ## Live Project Links
 
-  Github Repo: https://github.com/lbladma/README_Generator
+  [Github Repo](https://github.com/lbladma/README_Generator)
 
-  Deployed Link: https://github.com/lbladma/README_Generator/blob/main/README.md
+  [Deployed Link](https://github.com/lbladma/README_Generator/blob/main/README.md)
 
   

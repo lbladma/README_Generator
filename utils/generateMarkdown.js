@@ -71,12 +71,13 @@ const generateMarkdown = (data) => {
 
   ## Live Demo
   -- This is the Live Demo for the README Project --
-  ![Demonstration](ReadmeGenerator-DEMO.webm)
+  ![Live URL](https://www.awesomescreenshot.com/video/5747294?key=c3ffe7766c2fd109e01da2ccca5382ee)
+  
 
 
   ## Screenshot of the README File
   -- This is the Screenshot of  the README Project --
-  ![Demonstration](ReadmeGenerator-DEMO.png)
+  ![Screenshot](ReadmeGenerator-DEMO.png)
 
 
 
