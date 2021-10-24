@@ -1,17 +1,14 @@
 {
-  "name": "note-taker",
+  "name": "static-site",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
-    "nodemon": "^2.0.12",
-    "uuid": "^8.3.2"
+    "inquirer": "^6.3.1"
   }
 }
