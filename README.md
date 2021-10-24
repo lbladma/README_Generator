@@ -57,7 +57,7 @@
 
   ## Live Demo
   -- This is the Live Demo for the README Project --
-  ![Demonstration](ReadmeGenerator-DEMO.mp4)
+  ![Demonstration](ReadmeGenerator-DEMO.gif)
 
 
   ## Screenshot of the README File
