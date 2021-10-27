@@ -1,3 +1,9 @@
+// Assignment: ReadME Generator project 
+// Author: Taoufik Ammi
+// Date: 10/23 /2021 
+// Course: UNC Coding BootCamp
+
+
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 const renderLicenseBadge = (license) => {}

@@ -76,10 +76,4 @@
 
 
 
-  ## Live Project Links
-
-  [Github Repo](https://github.com/lbladma/README_Generator)
-
-  [Deployed Link](https://github.com/lbladma/README_Generator/blob/main/README.md)
-
   
