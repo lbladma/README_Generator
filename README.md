@@ -65,10 +65,10 @@
 
 
 
-
+#
 
   ## Screenshot of the README File
-  -- This is the Screenshot of  the README Project --
+  -- This is the Screenshot of  the README Project ---
   ![Screenshot](ReadmeGenerator-DEMO.png)
 
 
