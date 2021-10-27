@@ -72,7 +72,7 @@ const generateMarkdown = (data) => {
   ## Live Demo
   -- This is the Live Demo for the README Project --
   ![Live URL](https://www.awesomescreenshot.com/video/5747294?key=c3ffe7766c2fd109e01da2ccca5382ee)
-  
+
 
 
   ## Screenshot of the README File
@@ -86,7 +86,7 @@ const generateMarkdown = (data) => {
 
   ## Live Project Links
 
-  Github Repo: https://github.com/lbladma/README_Generator
+  [Github Repo](https://github.com/lbladma/README_Generator)
 
   Deployed Link: https://github.com/lbladma/README_Generator/blob/main/README.md
 
