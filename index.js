@@ -1,6 +1,6 @@
 // Assignment: ReadME Generator project 
 // Author: Taoufik Ammi
-// Date: 10/23 /2021 
+// Date: 10/27/2021 
 // Course: UNC Coding BootCamp
 
 
@@ -17,45 +17,46 @@ const questions = [
         // Title of the project
         name: 'title',
         type: 'input',
-        message: 'Whats the Title of the project?'
+        message: 'What is the title of the project?'
     },
     {
         // Description of Project
         name: 'description',
         type: 'input',
-        message: 'Please provide a description of your project?'
+        message: 'Provide a description of your project?'
     },
     {
         // Technologies used.
         name: 'dependencies',
         type: 'input',
-        message: 'What technologies did the application require in order to run smoothly and effectively?'
+        message: 'What technologies did the application use?'
     },
 
     {
         // What is it for?
         name: 'use',
         type: 'input',
-        message: 'What is the application used for? '
+        message: 'What is the purpose of this application? '
     },
     {
         // Who contributed
         name: 'contributor',
         type: 'input',
-        message: 'Were there any contributors to the application/project'
+        message: 'Who contributed to build this app?'
     },
     
     {
         // Any license
         name: "license",
         type: 'input',
-        message: 'Are there any license the application has?'
+        message: 'What is the license used for this app if there is any? '
+
     },
 
     {
         name: 'test',
         type: 'input',
-        message: "How can we test the application ?"
+        message: "How do you test the functionality of this app? "
     },
     {
         // Github

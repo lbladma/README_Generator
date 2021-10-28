@@ -1,7 +1,7 @@
-## Project Title: ReadME Generator
+## Project Title: ReadMe Generator
 
   ## Description:
-  This project is for creating a professional ReadMe template or file.
+  This app allows the user to create a professional ReadMe file
 
   ## Table of Contents
   * [Installation](#installation)
@@ -12,24 +12,24 @@
   * [Questions](#questions)
   
   ## Installation
-  -- What technologies did the application require in order to run smoothly and effectively?--
+  --> What technologies did the application use? 
 
-  node.js, JS, VS Code, Inquirer, FS.
+  node.js, ft, inquirer, JS, VS Code.
 
   ## Usage
-  -- What is the application used for? --
+  --> What is the purpose of this application? 
 
-  Developers and users who to create or view a professional readme file
+  help the developer create a professional ReadMe file.
 
 
 
   ## Contributors
-  -- Were there any contributors to the application/project --
+  --> Who contributed to build this app?
 
   Contributors: Taoufik A.
 
   ## License
-  -- Are there any license the application has? --
+  --> What is the license used for this app if there is any?
 
   This Application is covered by the MIT license.
 
@@ -39,41 +39,41 @@
 
 
   ## Tests
-  -- How can we test the application --
+  --> How do you test the functionality of this app?
 
- using the demo provided and opening the readme file
+ using the link provided or watching the live demo.
 
   ## Questions
-  -- Have any questions? --
+  --> Any questions or feedback?
 
   Please reach out to me if you have any questions. Contact me at: toufikaminew@gmail.com
 
-  -- Want to see the repo of the project --
+  --> Do you like to explore more projects for the developer?
 
   Interested in seeing other projects I have worked on? My repository can be accessed here: 
   https://github.com/lbladma
 
 
 
-  ## Live Demo & Snapshot: 
+  ## Live Demo
   -- This is the Live Demo for the README Project --
-    <br>
-  [LIVE URL](https://www.awesomescreenshot.com/video/5747294?key=c3ffe7766c2fd109e01da2ccca5382ee)
-  #
-  -- This is a snapshot of the Project
-  ![GIF](ReadmeGenerator-DEMO.gif)
+  [Live URL](https://www.awesomescreenshot.com/video/5803086?key=741af992c1e1691f4cf838dc7697ea09)
 
 
-
-#
 
   ## Screenshot of the README File
-  -- This is the Screenshot of  the README Project ---
+  -- This is the Screenshot of  the README Project --
   ![Screenshot](ReadmeGenerator-DEMO.png)
 
 
 
 
 
+
+  ## Live Project Links
+
+  [Github Repo](https://github.com/lbladma/README_Generator)
+
+  Deployed Link: https://github.com/lbladma/README_Generator/blob/main/README.md
 
   

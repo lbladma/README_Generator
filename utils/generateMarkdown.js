@@ -1,6 +1,6 @@
 // Assignment: ReadME Generator project 
 // Author: Taoufik Ammi
-// Date: 10/23 /2021 
+// Date: 10/27/2021 
 // Course: UNC Coding BootCamp
 
 
@@ -32,24 +32,24 @@ const generateMarkdown = (data) => {
   * [Questions](#questions)
   
   ## Installation
-  -- What technologies did the application require in order to run smoothly and effectively?--
+  --> What technologies did the application use? 
 
   ${data.dependencies}
 
   ## Usage
-  -- What is the application used for? --
+  --> What is the purpose of this application? 
 
   ${data.use}
 
 
 
   ## Contributors
-  -- Were there any contributors to the application/project --
+  --> Who contributed to build this app?
 
   Contributors: ${data.contributor}
 
   ## License
-  -- Are there any license the application has? --
+  --> What is the license used for this app if there is any?
 
   This Application is covered by the ${data.license} license.
 
@@ -59,16 +59,16 @@ const generateMarkdown = (data) => {
 
 
   ## Tests
-  -- How can we test the application --
+  --> How do you test the functionality of this app?
 
  ${data.test}
 
   ## Questions
-  -- Have any questions? --
+  --> Any questions or feedback?
 
   Please reach out to me if you have any questions. Contact me at: ${data.email}
 
-  -- Want to see the repo of the project --
+  --> Do you like to explore more projects for the developer?
 
   Interested in seeing other projects I have worked on? My repository can be accessed here: 
   https://github.com/${data.github}
@@ -77,7 +77,7 @@ const generateMarkdown = (data) => {
 
   ## Live Demo
   -- This is the Live Demo for the README Project --
-  ![Live URL](https://www.awesomescreenshot.com/video/5747294?key=c3ffe7766c2fd109e01da2ccca5382ee)
+  ![Live URL](https://www.awesomescreenshot.com/video/5803086?key=741af992c1e1691f4cf838dc7697ea09)
 
 
 
